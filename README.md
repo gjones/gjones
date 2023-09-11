@@ -2,7 +2,7 @@
 
 I’m Gareth, a passionate designer / developer for the web and iOS. I have over 15 years of professional experience in architecting, designing, and building digital products. I find beauty in simplicity, aiming for elegance and sophistication in every project that I'm involved with.
 
-While no longer my full-time profession, I still love developing. My iOS app, [Fight Scores](https://fightscores.co), has amassed a loyal group of users and an average app store rating of over 4.5. Recently it hit the milestone of 25,000 scorecards added.
+While no longer my full-time profession, I still love developing. My iOS app, [Fight Scores](https://fightscores.co), has amassed a loyal group of users and an average app store rating of over 4.5. Recently it hit the milestone of 35,000 scorecards added.
 
 I'm also working on a user feedback tool called [Speedback](https://speedback.co), it's not yet launched but you can follow along with the progress on [twitter](https://twitter.com/@garethdafyddjones).
 
